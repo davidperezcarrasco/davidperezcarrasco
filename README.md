@@ -12,7 +12,7 @@ About me:
 - 🤖 ML & AI Research experience @ [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/web/ai-ml)
 - 🎓 BSc in Mathematical Engineering in Data Science @ [UPF](https://www.upf.edu/en/web/etic/grau-en-enginyeria-matematica-ciencia-de-dades)
 - 🌎 Studied abroad @ [University of British Columbia (UBC)](https://www.ubc.ca/), focusing on AI, ML, Data Mining, and Statistics.
-- 💻 Skills: Python, SQL, R, Julia, C, Java, Tableau, AWS, Oracle, APache Spark, machine learning, data analysis, deep learning, reinforcement learning, NLP
+- 💻 Skills: Python, SQL, R, Julia, C, Java, Tableau, AWS, Oracle, Apache Spark, ML, DL, RL, NLP
 
 You can reach me at 
 
