@@ -15,3 +15,5 @@ About me:
 You can reach me at 
 
 [![Linkedin Badge](https://img.shields.io/badge/-davidperezcarrasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/davidperezcarrasco/])](https://www.linkedin.com/in/davidperezcarrasco/)
+
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://davidperezcarrasco.github.io/)](https://davidperezcarrasco.github.io/)
