@@ -3,6 +3,7 @@
 Machine Learning and Artificial Intelligence researcher with a focus on Reinforcement Learning, passionate about both implementing ML models and advancing research. I am driven by the potential of AI to solve complex problems and optimize decision-making processes across various domains. My interests include:
 - 🤖 Reinforcement Learning
 - 🗣️ Natural Language Processing
+- 🧠 Deep Learning
 - 📊 Data Science
 - 💼 Business Intelligence
 
